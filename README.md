@@ -1,5 +1,4 @@
-# 20203159
-오픈소스SW개론 과제2
+# 오픈소스SW개론 과제2
 
 top, ps, jobs, kill 명령어 조사
 
@@ -11,6 +10,10 @@ top, ps, jobs, kill 명령어 조사
 화면 구성: 상단 요약 정보: load average, Tasks, CPU usage, Mem/Swap 하단
 프로세스 목록: PID, USER, %CPU, %MEM, TIME+, COMMAND
 
-주요 단축키: - q : 종료 - P : CPU 사용량 기준 정렬 - M : 메모리 기준
-정렬 - T : 실행 시간 기준 정렬 - k : 프로세스 종료 - 1 : CPU 코어별
-사용량 표시
+주요 단축키:
+- q : 종료
+- P : CPU 사용량 기준 정렬
+- M : 메모리 기준 정렬
+- T : 실행 시간 기준 정렬
+- k : 프로세스 종료
+- 1 : CPU 코어별 사용량 표시
