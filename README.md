@@ -16,6 +16,9 @@ top, ps, jobs, kill 명령어 조사
   ```
   top
   ```
+  <img width="846" height="542" alt="1" src="https://github.com/user-attachments/assets/a230bef2-a243-4cb4-9352-a641a096409e" />
+  <img width="600" height="600" alt="2" src="https://github.com/user-attachments/assets/b5231c5f-a695-4900-84ac-15e7064df271" />
+
 
   주요 단축키
   - q : 종료
